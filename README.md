@@ -6,3 +6,4 @@ rebase-practiceブランチで更新（rebase用）
 rebase-practiceブランチで更新（rebase-コンフリクト用）
 stashコンフリクト用
 stash練習（トラック済み）
+stash練習（2rd変更）
